@@ -4,19 +4,41 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="70%"/><br>
 
 </div>
+<div align="center"> 
 
-#  I'm **Jomana Mohamed**
+# 👋 Jomana Mohamed
 ### 💻 Web Developer | 🌐 Front-End Designer | 🎨 Creative Coder
 
 ---
 
+
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.whitebadge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white) 
+![Css](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white) 
+
+</div> 
+ <hr></hr>
 
 
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+```
+
+<hr></hr>
 
 
 
