@@ -10,6 +10,16 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Json](https://img.whitebadge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white) 
+
+
+
+
+
 ## 🚀 About Me
 - ✨ I'm a passionate **web developer** who loves building beautiful & responsive websites.
 - 🌱 Currently learning **HTML, CSS, JavaScript**, and exploring **Python**.
