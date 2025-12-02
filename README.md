@@ -69,15 +69,6 @@ class About extends Me {
 
 ---
 
-## 🔗 Connect With Me
-<div align="center">
-
-[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/share/17cHV69Zud/)  
-[<img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white">](https://x.com/JomanaMoha85527?t=IhPmWnbPrPgzqo4W4otf4g&s=09)  
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jomana_mohamaed2211?igsh=MXBpeHp6anM3cnBuNg==)  
-[<img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white">](https://www.tiktok.com/@jomana_mohamed2211?_r=1&_t=ZS-91stXc7kR6d)
-
-</div>
 
 ---
 
@@ -120,14 +111,17 @@ class About extends Me {
 
 </div>
 
+<hr></hr>
 
-
----
-
-## 💖 Thanks for visiting my profile!
+## 🔗 Connect With Me
 <div align="center">
 
-⭐ *Don't forget to star my repositories!* ⭐
+[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/share/17cHV69Zud/)  
+[<img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white">](https://x.com/JomanaMoha85527?t=IhPmWnbPrPgzqo4W4otf4g&s=09)  
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jomana_mohamaed2211?igsh=MXBpeHp6anM3cnBuNg==)  
+[<img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white">](https://www.tiktok.com/@jomana_mohamed2211?_r=1&_t=ZS-91stXc7kR6d)
 
 </div>
+
+---
 
