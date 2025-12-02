@@ -5,7 +5,7 @@
 
 </div>
 
-# 👋 Hi, I'm **Jomana Mohamed**
+#  I'm **Jomana Mohamed**
 ### 💻 Web Developer | 🌐 Front-End Designer | 🎨 Creative Coder
 
 ---
