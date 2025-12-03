@@ -16,7 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html&logoColor=white)
+![Html](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white) 
 
 </div> 
