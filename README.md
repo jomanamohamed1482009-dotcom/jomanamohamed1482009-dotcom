@@ -53,7 +53,7 @@ class About extends Me {
 <div align="center">
 
 ### 🌐 **Web Development**
-✔️ HTML5  
+✔️ HTML
 ✔️ CSS3  
 ✔️ JavaScript (Basics)
 
