@@ -54,7 +54,7 @@ class About extends Me {
 
 ### 🌐 **Web Development**
 ✔️ HTML
-✔️ CSS3  
+✔️ CSS
 ✔️ JavaScript (Basics)
 
 ### 🐍 **Programming**
